@@ -1,0 +1,6 @@
+{
+  "port": 8080,
+  "mongoUri": "mongodb+srv://flrbyave:kvelHgP2QRGLvJkx@booking-react.h4irusu.mongodb.net/?retryWrites=true&w=majority",
+  "accessSecret": "react-booking secret from backend",
+  "refreshSecret": "react-booking super refresh key"
+}

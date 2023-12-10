@@ -10622,3 +10622,39 @@ header.header-fullwidth {
     display: none;
   }
 }
+
+
+.bg-fixed {
+  background-image: url('./app/assets/6.jpg');
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.bg-single {
+  background-image: url('./app/assets/bg.jpg');
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;  
+}
+
+.de-content-overlay {
+  color: #fff;
+}
+
+.d-text {
+  color: #fff;
+}
+
+.bg-booking {
+  background-image: url('./app/assets/2.jpg');
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0; 
+}
